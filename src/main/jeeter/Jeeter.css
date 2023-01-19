@@ -1,0 +1,228 @@
+.jeeter{
+    position: absolute;
+    width: 1440px;
+    height: 500px;
+    left: 0px;
+    top: 1341px;
+    background: rgba(40, 33, 101, 0.05);
+   
+      
+}
+
+
+
+.jeeter h1{
+    width: 111px;
+    height: 51px;
+    left: 50px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 51px;
+    color: #282165;
+    margin-left: 50px;
+    }
+
+.jeeter h4{
+    width: 669px;
+    height: 100px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: justify;
+    color: #606060;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.jeeter .amount-requested{
+    width: 121px;
+    height: 20px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    color: #656565;
+    top: 77px;
+    margin-left: 50px;
+    margin-top: 25px;
+
+}
+.jeeter .amount-requested-figure{
+    width: 184px;
+    height: 42px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 42px;
+    color: #534D84;
+    margin-left: 50px;
+}
+.jeeter .channels{
+    width: 59px;
+    height: 20px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    color: #656565;
+    margin-left: 50px;
+    margin-top: 25px;
+
+}
+.jeeter .mobile{
+    width: 291px;
+    height: 42px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 42px;
+    color: #534D84;
+    margin-left: 50px;
+    margin-top: 5px;
+}
+.jeeter .amount-raised{
+    width: 96px;
+    height: 20px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height */
+    color: #656565;
+    margin-left: 570px;
+    position: relative;
+    bottom: 150px;
+}
+
+.jeeter .amount-figure{
+    width: 169px;
+    height: 42px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 42px;
+    color: #534D84;
+    margin-left: 530px;
+    position: relative;
+    bottom: 150px;
+}
+
+.jeeter .days{
+    width: 96px;
+    height: 20px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height */
+    color: #656565;
+    margin-left: 570px;
+    position: relative;
+    bottom: 130px;    
+
+}
+
+.jeeter .days-figure{
+    width: 107px;
+    height: 42px;
+    font-family: 'Circular Spotify Text'; 
+    font-style: normal;
+    font-weight: bold; 
+    font-size: 30px;
+    line-height: 42px; 
+    color: #534D84;
+    margin-left: 565px; 
+    position: relative;
+    bottom: 130px;
+}
+
+.jeeter .shop-city{
+    width: 160px;
+    height: 25px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px; 
+    line-height: 25px; 
+    color: #00AEED;
+    margin-left: 50px; 
+    position: relative; 
+    bottom: 80px; 
+}
+.jeeter .view-details{
+    width: 85px;
+    height: 28px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px; 
+    line-height: 23px; 
+    color: #00AEED;
+    bottom: 70px; 
+    left: 470px; 
+    background-color: #FFFFFF;
+    border: 2px solid  #00AEED; 
+    border-radius: 2px; 
+    bottom: 80px;  
+    left: 480px; 
+    position: absolute;
+    
+    
+}
+
+.jeeter .donate{
+    width: 85px;
+    height: 28px; 
+    font-family: 'Circular Spotify Text';
+    font-style: normal; 
+    font-weight: 500; 
+    font-size: 16px;  
+    line-height: 23px; 
+    color: #FFFFFF; 
+    background-color: #00AEED;
+    border: 2px solid  #00AEED;
+    border-radius: 2px; 
+    bottom: 80px;  
+    left: 580px; 
+    position: absolute;  
+   
+}
+
+.jeeter .rec-12{
+    position: relative;
+    width: 400px; 
+    height: 400px;  
+    left: 700px; 
+    bottom: 480px; 
+}
+.jeeter .rec-13{
+    width: 200px;
+height: 190px;
+position: relative;
+left: 720px;
+bottom: 690px;
+}
+
+.jeeter .rec-14{
+    width: 200px;
+height: 190px;
+position: relative;
+left: 520px;
+bottom: 480px;
+}

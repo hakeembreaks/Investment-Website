@@ -1,0 +1,231 @@
+.belle{
+    
+
+    position: absolute;
+width: 1440px;
+height: 500px;
+left: 0px;
+top: 2480px;
+
+background: rgba(40, 33, 101, 0.05);
+   
+      
+}
+
+
+
+.belle h1{
+    width: 111px;
+    height: 51px;
+    left: 50px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 51px;
+    color: #282165;
+    margin-left: 50px;
+    }
+
+.belle  h4{
+    width: 669px;
+    height: 100px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: justify;
+    color: #606060;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.belle .amount-requested{
+    width: 121px;
+    height: 20px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    color: #656565;
+    top: 77px;
+    margin-left: 50px;
+    margin-top: 25px;
+
+}
+.belle .amount-requested-figure{
+    width: 184px;
+    height: 42px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 42px;
+    color: #534D84;
+    margin-left: 50px;
+}
+.belle .channels{
+    width: 59px;
+    height: 20px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    color: #656565;
+    margin-left: 50px;
+    margin-top: 25px;
+
+}
+.belle .mobile{
+    width: 291px;
+    height: 42px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 42px;
+    color: #534D84;
+    margin-left: 50px;
+    margin-top: 5px;
+}
+.belle .amount-raised{
+    width: 96px;
+    height: 20px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height */
+    color: #656565;
+    margin-left: 570px;
+    position: relative;
+    bottom: 150px;
+}
+
+.belle .amount-figure{
+    width: 169px;
+    height: 42px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 42px;
+    color: #534D84;
+    margin-left: 530px;
+    position: relative;
+    bottom: 150px;
+}
+
+.belle .days{
+    width: 96px;
+    height: 20px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height */
+    color: #656565;
+    margin-left: 570px;
+    position: relative;
+    bottom: 130px;    
+
+}
+
+.belle .days-figure{
+    width: 107px;
+    height: 42px;
+    font-family: 'Circular Spotify Text'; 
+    font-style: normal;
+    font-weight: bold; 
+    font-size: 30px;
+    line-height: 42px; 
+    color: #534D84;
+    margin-left: 565px; 
+    position: relative;
+    bottom: 130px;
+}
+
+.belle .shop-city{
+    width: 160px;
+    height: 25px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px; 
+    line-height: 25px; 
+    color: #00AEED;
+    margin-left: 50px; 
+    position: relative; 
+    bottom: 80px; 
+}
+.belle .view-details{
+    width: 85px;
+    height: 28px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px; 
+    line-height: 23px; 
+    color: #00AEED;
+    bottom: 70px; 
+    left: 470px; 
+    background-color: #FFFFFF;
+    border: 2px solid  #00AEED; 
+    border-radius: 2px; 
+    bottom: 80px;  
+    left: 480px; 
+    position: absolute;
+    
+    
+}
+
+.belle .donate{
+    width: 85px;
+    height: 28px; 
+    font-family: 'Circular Spotify Text';
+    font-style: normal; 
+    font-weight: 500; 
+    font-size: 16px;  
+    line-height: 23px; 
+    color: #FFFFFF; 
+    background-color: #00AEED;
+    border: 2px solid  #00AEED;
+    border-radius: 2px; 
+    bottom: 80px;  
+    left: 580px; 
+    position: absolute;  
+   
+}
+
+.belle .rec-21{
+    position: relative;
+    width: 400px; 
+    height: 400px;  
+    left: 700px; 
+    bottom: 480px; 
+}
+.belle .rec-22{
+    width: 200px;
+height: 190px;
+position: relative;
+left: 720px;
+bottom: 690px;
+}
+
+.belle .rec-23{
+    width: 200px;
+height: 190px;
+position: relative;
+left: 520px;
+bottom: 480px;
+}

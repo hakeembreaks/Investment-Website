@@ -1,0 +1,219 @@
+.stray .stray-1{
+    position: absolute;
+    width: 402.57px;
+    height: 415.81px;
+    left: 56.89px;
+    top: 1950px;
+    border-radius: 5px;
+    transform: matrix(1, -0.04, -0.02, 1, 0, 0);
+}
+
+.stray .stray-2{
+    
+position: absolute;
+width: 200px;
+height: 200px;
+left: 482.21px;
+top: 1930px;
+border-radius: 5px;
+transform: matrix(1, -0.04, -0.02, 1, 0, 0);
+}
+
+.stray .stray-3{
+    position: absolute;
+width: 200px;
+height: 200px;
+left: 479.32px;
+top: 2140px;
+border-radius: 5px;
+transform: matrix(1, -0.04, -0.02, 1, 0, 0);
+}
+
+.stray h1{
+    position: absolute;
+    width: 91px;
+    height: 51px;
+    left: 733px;
+    top: 1910px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 51px;
+    color: #282165;
+}
+
+.stray h4{
+    position: absolute;
+    width: 656px;
+    height: 100px;
+    font-family: 'Circular Spotify Text';
+    font-style: bold;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: justify;
+    color: #606060;
+    left: 733px;
+    top: 1970px;
+}
+
+.stray .amount-requested{
+    position: absolute;
+    width: 121px;
+    height: 20px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    color: #656565;
+    left: 733px;
+    top: 2090px;  
+ }
+ .stray .amount-requested-figure{
+    width: 184px;
+    height: 42px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 42px;
+    color: #534D84;
+    left: 733px;
+    top: 2110px;
+    position: absolute;
+ }
+
+ .stray .channels{
+    position: absolute;
+    width: 121px;
+    height: 20px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    color: #656565;
+    left: 733px;
+    top: 2170px; 
+    position: absolute; 
+ }
+ .stray .mobile{
+    width: 291px;
+    height: 42px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 42px;
+    color: #534D84;
+    top: 2195px;
+    left: 733px;
+    position: absolute;
+ }
+
+ .stray .shop-city{
+    position: absolute;
+    width: 160px;
+    height: 25px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    color: #00AEED;
+    top: 2310px;
+    left: 733px;
+ }
+ .stray .amount-raised{
+    position: absolute;
+    width: 96px;
+    height: 20px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #656565; 
+    top: 2090px;
+    left: 1240px;
+ }
+ .stray .amount-figure{
+    width: 184px;
+    height: 42px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 42px;
+    color: #534D84;
+    left: 1195px;
+    top: 2110px;
+    position: absolute;
+ }
+ .stray .days{
+    position: absolute;
+    width: 96px;
+    height: 20px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #656565; 
+    top: 2170px;
+    left: 1240px;
+ }
+ .stray .days-figure{
+    width: 291px;
+    height: 42px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 42px;
+    color: #534D84;
+    top: 2195px;
+    left: 1230px;
+    position: absolute;
+ }
+ .stray .view-details{
+    position: absolute;
+    width: 85px;
+    height: 28px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 23px;
+    color: #00AEED;
+    top: 2310px;
+    left: 1150px;
+    background-color: #FFFFFF;
+    border: 2px solid  #00AEED;
+    border-radius: 2px;
+ }
+
+ .stray .donate{
+    position: absolute;
+    width: 85px;
+    height: 28px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 23px;
+    color: #FFFFFF;
+    top: 2310px;
+    left: 1250px;
+    background-color: #00AEED;
+    border: 2px solid  #00AEED;
+    border-radius: 2px;  
+ }
