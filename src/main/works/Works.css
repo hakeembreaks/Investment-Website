@@ -11,14 +11,18 @@
 width: 154px;
 height: 28px;
 font-family: 'Circular Spotify Text';
-font-style: bold;
-font-weight: 500;
 font-size: 20px;
 line-height: 28px;
 color: #FFFFFF;
 left: 582px;
 top: 150px;
 position: relative;
+font-family: 'Circular Spotify Text';
+font-style: normal;
+font-weight: 700;
+font-size: 19px;
+line-height: 28px;
+color: #FFFFFF;
 
 
 }
@@ -78,6 +82,7 @@ position: relative;
     color: #FFFFFF;
     left: 170px;
     top: 313px;
+
 }
 .working .view{
     width: 137px;

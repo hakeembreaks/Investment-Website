@@ -26,27 +26,47 @@ nav ul{
     color: #FFFFFF;
     list-style-type: none;
 }
+nav .invest{
+    width: 44px;
+    height: 23px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    color: #C9C9C9;
+ 
+}
+nav .how{
+    width: 98px;
+    height: 23px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    color: #C9C9C9;
+}
 
 
 .logo{
     position: absolute;
-width: 100px;
-height: 100px;
-left: 0px;
-top: 0px;
+    width: 100px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
 }
 
 nav .btn{
     width: 120px;
-height: 43px;
-font-family: 'Circular Spotify Text';
-font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 23px;
-background-color: white;
-border: 2px solid white;
-border-radius: 2px; 
-color: black;
-
+    height: 43px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    background-color: white;
+    border: 2px solid white;
+    border-radius: 2px; 
+    color: black;
 }

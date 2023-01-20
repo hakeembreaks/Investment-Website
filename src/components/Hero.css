@@ -15,28 +15,25 @@
 
 .hero h1{
     width: 606px;
-height: 164px;
-
-font-family: 'Circular Spotify Text';
-font-style: normal;
-font-weight: 900;
-font-size: 58px;
-line-height: 82px;
-color: #FFFFFF
+    height: 164px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 58px;
+    line-height: 82px;
+    color: #FFFFFF
 }
 
 .hero p{
     width: 509px;
-height: 60px;
-
-font-family: 'Circular Spotify Text';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 25px;
-letter-spacing: 0.04em;
-
-color: #DDDDDD;
+    height: 60px;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    letter-spacing: 0.04em;
+    color: #DDDDDD;
 }
 
 .hero .btn{
@@ -46,25 +43,21 @@ color: #DDDDDD;
     border: 1px solid  #00AEED;
     border-radius: 2px; 
     color: #FFFFFF;
-
-font-family: 'Circular Spotify Text';
-font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 23px;
-/* identical to box height */
-
-
-color: #FFFFFF;
-background-color: aqua;
+    font-family: 'Circular Spotify Text';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 23px;
+    color: #FFFFFF;
+    background-color: aqua;
 }
 
 .main-hero{
     position: absolute;
-width: 1440px;
-height: 1024px;
-left: 0px;
-top: 0px;
+    width: 1440px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
 }
 
 .hero .images{
@@ -72,17 +65,17 @@ top: 0px;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-padding: 0px;
-width: 90px;
-height: 40px;
+    padding: 0px;
+    width: 90px;
+    height: 40px;
 }
 
 .hero .pics1{
     flex: none;
-order: 0;
-flex-grow: 0;
-margin: 0px -15px;
-}
+    order: 0;
+    flex-grow: 0;
+    margin: 0px -15px;
+    }
 .hero .pics2{
     flex: none;
     order: 1;
@@ -104,14 +97,11 @@ margin: 0px -15px;
 .hero h5{
     width: 105px;
     height: 23px;
-
     font-family: 'Circular Spotify Text';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 23px;
-    /* identical to box height */
-
     color: #FFFFFF;
 }
 
@@ -123,20 +113,18 @@ margin: 0px -15px;
 }
 
 .hero .human-top{  
-width: 160px;
-height: 120px;
-left: 844px;
-top: 21px;
-
+    width: 160px;
+    height: 120px;
+    left: 844px;
+    top: 21px;
 }
 
 .hero .human{
-width: 436.36px;
-height: 436.36px;
-left: 911.09px;
-top: 393.64px;
-
-background: rgba(40, 33, 101, 0.5);
-mix-blend-mode: screen;
-}
+    width: 436.36px;
+    height: 436.36px;
+    left: 911.09px;
+    top: 393.64px;
+    background: rgba(40, 33, 101, 0.5);
+    mix-blend-mode: screen;
+    }
 

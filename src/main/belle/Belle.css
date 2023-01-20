@@ -1,18 +1,11 @@
 .belle{
-    
-
     position: absolute;
-width: 1440px;
-height: 500px;
-left: 0px;
-top: 2480px;
-
-background: rgba(40, 33, 101, 0.05);
-   
-      
+    width: 1440px;
+    height: 500px;
+    left: 0px;
+    top: 2480px;
+    background: rgba(40, 33, 101, 0.05);      
 }
-
-
 
 .belle h1{
     width: 111px;
@@ -216,16 +209,16 @@ background: rgba(40, 33, 101, 0.05);
 }
 .belle .rec-22{
     width: 200px;
-height: 190px;
-position: relative;
-left: 720px;
-bottom: 690px;
+    height: 190px;
+    position: relative;
+    left: 720px;
+    bottom: 690px;
 }
 
 .belle .rec-23{
     width: 200px;
-height: 190px;
-position: relative;
-left: 520px;
-bottom: 480px;
+    height: 190px;
+    position: relative;
+    left: 520px;
+    bottom: 480px;
 }

@@ -27,15 +27,13 @@ html{
 
 h1{
   width: 72px;
-height: 28px;
-left: 684px;
-top: 1124px;
-
-font-family: 'Circular Spotify Text';
-font-style: normal;
-font-weight: 700;
-font-size: 20px;
-line-height: 28px;
-
-color: #282165;
+  height: 28px;
+  left: 684px;
+  top: 1124px;
+  font-family: 'Circular Spotify Text';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  color: #282165;
 }
